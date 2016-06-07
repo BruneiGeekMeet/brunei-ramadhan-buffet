@@ -8,18 +8,18 @@
     <meta content="yes" name="apple-mobile-web-app-capable">
     <meta name="apple-mobile-web-app-status-bar-style" content="black" />
 
-	<!-- icons, ipad3, iphone retina, ipad, iphone -->
-	<!-- not working well with Android. Samsung browser seems to work, Chrome doesn't.... -->
-    <link rel="apple-touch-icon" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
-    <link rel="apple-touch-icon" sizes="72x72"   href="ico/apple-touch-icon-72-precomposed.png">
-    <link rel="apple-touch-icon"                 href="ico/apple-touch-icon-57-precomposed.png">
-		<link rel="shortcut icon"                    href="ico/favicon.png">
+		<!-- icons, ipad3, iphone retina, ipad, iphone -->
+		<!-- not working well with Android. Samsung browser seems to work, Chrome doesn't.... -->
+		<link rel="apple-touch-icon" sizes="144x144" href="ls ico/apple-touch-icon-144-precomposed.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="ls ico/apple-touch-icon-114-precomposed.png">
+		<link rel="apple-touch-icon" sizes="72x72"   href="ls ico/apple-touch-icon-72-precomposed.png">
+		<link rel="apple-touch-icon"                 href="ls ico/apple-touch-icon-57-precomposed.png">
+		<link rel="shortcut icon"                    href="ls ico/favicon.png">
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 		<link rel="stylesheet" href="css/style.css">
 </head>
 <body ng-app="myApp" class="container" >
-	<h4>Brunei Ramadhan Buffets 2016</h4>
+	<h1>Brunei Ramadhan Buffets 2016</h1>
 	<div ng-controller="buffetCtrl" ng-cloak="true">
 		<span ng-show="isLoading">Loading...</span>
 		<div ng-repeat="location in uniqueLocations" class="search" name="location">
@@ -192,9 +192,9 @@
 	</div>
 
 
-
+	<h5>Disclaimer: there are possible typos in the data as I manually transcribed the data. Do let me know of any issues with it @thewheat: <a href="https://twitter.com/thewheat">Twitter</a> / <a href="https://telegram.me/thewheat">Telegram</a> / <a href='mailto:tim@thewheatfield.org'>tim@thewheatfield.org</a></h5>
 	<div>Sources: <a href="https://bruneifoodies.co/sungkai2016/">Brunei Foodies</a> &amp; <a href="http://www.thanislim.com/2016/05/brunei-sungkai-posters-2016-your-portal.html">Thanis Lim</a> / <a href="https://docs.google.com/spreadsheets/d/1ztjTSH149ceEOpXStONY_qWnFBYAY7ski3m9iMs-2yM/edit#gid=0">Compiled Google Doc file</a></div>
-
+	<h6>P.S. You can add this to your homescreen and this should be available offline 😉</h6>
 	<script src="lib/angular/angular.min.js"></script>
 	<script src="lib/underscore/underscore-min.js"></script>
 	<script src="js/app.js"></script>

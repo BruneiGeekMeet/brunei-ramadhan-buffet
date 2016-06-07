@@ -12,4 +12,4 @@ lib/jquery/jquery.min.js
 lib/underscore/underscore-min.js
 NETWORK:
 *
-<?php   echo "# Hash: " . md5_file('index.htm') . md5_file('js/app.js') .  "\n"; ?>
+<?php   echo "# Hash: " . md5_file('index.htm') . md5_file('js/app.js') . md5_file('css/style.css') .  "\n"; ?>
