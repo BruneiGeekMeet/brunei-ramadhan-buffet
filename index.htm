@@ -1,0 +1,202 @@
+<html manifest=".appcache">
+<head>
+<title>Brunei Ramadhan Buffets 2016</title>
+	<!-- mobile viewport -->
+	<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no" />
+
+    <!-- ios webapp - hide safari toolbar -->
+    <meta content="yes" name="apple-mobile-web-app-capable">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+	<!-- icons, ipad3, iphone retina, ipad, iphone -->
+	<!-- not working well with Android. Samsung browser seems to work, Chrome doesn't.... -->
+    <link rel="apple-touch-icon" sizes="144x144" href="ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon" sizes="72x72"   href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon"                 href="ico/apple-touch-icon-57-precomposed.png">
+		<link rel="shortcut icon"                    href="ico/favicon.png">
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+		<link rel="stylesheet" href="css/style.css">
+</head>
+<body ng-app="myApp" class="container" >
+	<h4>Brunei Ramadhan Buffets 2016</h4>
+	<div ng-controller="buffetCtrl" ng-cloak="true">
+		<span ng-show="isLoading">Loading...</span>
+		<div ng-repeat="location in uniqueLocations" class="search" name="location">
+				<label ng-show="location"><input type="checkbox" ng-model="searchLocationData[location]" value="{{location}}" ng-change="savePreferences()" > {{location}}</label>
+		</div>
+ 		<!--
+		<div class="input-group">
+			Budget: <input type="" style="width: 3em" placeHolder="" class="search" value="{{budget}}">
+			Adults: <input type="" style="width: 3em" placeHolder="" class="search" value="{{countAdults}}">
+			Children: <input type="" style="width: 3em" placeHolder="" class="search" value="{{countChildren}}">
+		</div> -->
+
+
+		<!-- <label>Any: <input ng-model="search.$"></label> <br>
+		<label>Name only <input ng-model="search.title"></label><br>
+		<label>Phone only <input ng-model="search.location"></label><br>
+		<label>Phone only <input ng-model="search.location"></label><br>
+		<label>Equality <input type="checkbox" ng-model="strict"></label><br>
+		<table id="searchObjResults">
+		  <tr><th>Name</th><th>Phone</th></tr>
+		  <tr ng-repeat="friendObj in filteredData | filter:search">
+		    <td>{{friendObj.title}}</td>
+		    <td>{{friendObj.location}}</td>
+		  </tr>
+		</table> -->
+
+
+
+
+		<input type="text" class="form-control" placeholder="Search" ng-model="searchText">
+
+
+		<label><input type="checkbox" ng-model="tableView" ng-change="savePreferences()"> Table View</label>
+		<label><input type="checkbox" ng-model="showImages" ng-change="savePreferences()"> Show Images</label>
+
+
+		<h3 class="search"><span class="label label-default">Search results : {{filteredData().length}}</span></h3>
+
+
+			<div ng-show="tableView" class="table-responsive">
+				<table class="table table-bordered table-striped">
+			    <thead>
+						<tr>
+							<th>
+			          <a href="#" ng-click="sortType = 'place'; sortReverse = !sortReverse">
+			            Place
+			            <span ng-show="sortType == 'place' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'place' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'cost_adult'; sortReverse = !sortReverse">
+			          	Cost (Adult BND$)
+			            <span ng-show="sortType == 'cost_adult' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'cost_adult' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'cost_child'; sortReverse = !sortReverse">
+			          	Cost (Child BND$)
+			            <span ng-show="sortType == 'cost_child' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'cost_child' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'time_start'; sortReverse = !sortReverse">
+			          	Opening Time
+			            <span ng-show="sortType == 'time_start' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'time_start' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'time_end'; sortReverse = !sortReverse">
+			          	Closing Time
+			            <span ng-show="sortType == 'time_end' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'time_end' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'contact'; sortReverse = !sortReverse">
+			          	Contact
+			            <span ng-show="sortType == 'contact' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'contact' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'location'; sortReverse = !sortReverse">
+			          	Location
+			            <span ng-show="sortType == 'location' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'location' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'surau'; sortReverse = !sortReverse">
+			          	Surau
+			            <span ng-show="sortType == 'surau' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'surau' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'notes'; sortReverse = !sortReverse">
+			          	Notes
+			            <span ng-show="sortType == 'notes' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'notes' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
+			          <a href="#" ng-click="sortType = 'source'; sortReverse = !sortReverse">
+			          	Source
+			            <span ng-show="sortType == 'source' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'source' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+			      </tr>
+			    </thead>
+
+
+			    <tbody>
+							<tr ng-repeat="place in filteredData() | orderBy:sortType:sortReverse">
+							<td class="header">
+								<h4>{{ place.place }}</h4>
+								{{ place.title }}
+								<a ng-show="showImages" href="images/{{place.poster}}"><img class="field thumbnail" src="images/{{place.poster}}"></a>
+
+							</td>
+					    <td>{{ place.cost_adult }}</td>
+					    <td>{{ place.cost_child }}</td>
+					    <td>{{ place.time_start | formatTime }}</td>
+					    <td>{{ place.time_end | formatTime }}</td>
+					    <td><ul><li ng-repeat="number in place.numbers"><a href="tel:{{number | removeSpaces }}">{{number | removeSpaces}}</a></li></ul></td>
+					    <td>{{ place.location }}</td>
+					    <td>{{ place.surau }}</td>
+					    <td>{{ place.notes }}</td>
+					    <td><ul><li><a href="{{ place.source_url }}">Link</a></li><li><a href="{{ place.source_poster }}">Poster</a></ul></td>
+			      </tr>
+			    </tbody>
+				</table>
+			</div>
+			<div ng-hide="tableView">
+						<div class="panel panel-default" ng-repeat="place in filteredData() | orderBy:sortType:sortReverse">
+
+							  <div class="panel-heading">
+									<h3 class="">{{ place.place }}</h3>
+								</div>
+							  <div class="panel-body">
+									<div class="label label-info location">{{ place.location }}</div>
+							    <h4 class="">{{ place.title }}</h4>
+
+									<ul class="list-group field">
+									  <li class="list-group-item">Adult: ${{ place.cost_adult }}</li>
+									  <li class="list-group-item">Child: ${{ place.cost_child }}</li>
+									</ul>
+
+							    <div class="field" ng-show="place.time_start">Hours: {{ place.time_start | formatTime }} - {{ place.time_end | formatTime }}</div>
+							    <div class="field" ng-show="place.contact">
+										<div class="btn-group">
+											<div class="btn btn-default disabled">Tel: </div>
+											<a href="tel:{{number | removeSpaces }}" class="btn btn-primary" ng-repeat="number in place.numbers">
+												{{number | removeSpaces}}</a>
+										</div>
+									</div>
+							    <div ng-show="place.surau">Surau: {{ place.surau | checkbox}}</div>
+									<a ng-show="showImages" href="images/{{place.poster}}"><img class="field thumbnail" src="images/{{place.poster}}"></a>
+									<div class="well">
+									<div ng-show="place.notes">{{ place.notes }}</div>
+							    <b>Source</b>: <a href="{{ place.source_url }}">Link</a> / <a href="{{ place.source_poster }}">Poster</a></div>
+							  </div>
+							</div>
+			</div>
+	</div>
+
+
+
+	<div>Sources: <a href="https://bruneifoodies.co/sungkai2016/">Brunei Foodies</a> &amp; <a href="http://www.thanislim.com/2016/05/brunei-sungkai-posters-2016-your-portal.html">Thanis Lim</a> / <a href="https://docs.google.com/spreadsheets/d/1ztjTSH149ceEOpXStONY_qWnFBYAY7ski3m9iMs-2yM/edit#gid=0">Compiled Google Doc file</a></div>
+
+	<script src="lib/angular/angular.min.js"></script>
+	<script src="lib/underscore/underscore-min.js"></script>
+	<script src="js/app.js"></script>
+</body>
+</html>

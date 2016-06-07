@@ -1,0 +1,43 @@
+
+
+ul {
+	padding-left: 1em;
+}
+
+.location.label{
+	font-size: 1.2em;
+	text-align: right;
+	float: right;
+	font-weight: normal;
+}
+.cost.label{
+	font-size: 1.1em;
+}
+.panel-heading h3{
+	margin:0;
+}
+.panel h4{
+	margin-top:0;
+}
+.panel .field{
+	margin-bottom: 0.5em;
+}
+.panel .well{
+	margin-bottom: 0;
+}
+@media only screen and (min-width: 1024px) {
+}
+.thumbnail{
+	max-width: 10em;
+}
+.header .thumbnail{
+	float: left;
+}
+.panel .thumbnail{
+	max-width: 10em;
+	margin: 0 auto;
+}
+
+h3.search .label{
+	display: block;
+}
