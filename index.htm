@@ -187,7 +187,7 @@
 									  <li class="list-group-item">Child: ${{ place.cost_child }}</li>
 									</ul>
 
-							    <div class="field" ng-show="place.time_start">Hours: {{ place.time_start | formatTime }} - {{ place.time_end | formatTime }}</div>
+							    <div class="field" ng-show="place.time_start">Hours: {{ place.time_start | formatTime }} <span ng-show="place.time_end">- {{ place.time_end | formatTime }}</span></div>
 							    <div class="field" ng-show="place.contact">
 										<div class="btn-group">
 											<div class="btn btn-default disabled">Tel: </div>

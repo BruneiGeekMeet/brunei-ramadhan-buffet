@@ -1307,5 +1307,39 @@
    "source_url":"https://bruneifoodies.co/sungkai2016/",
    "source_poster":"https://bruneifoodies.files.wordpress.com/2016/06/wywy11.jpg",
    "poster":"RedChillies.jpg"
- }
+ },
+ {
+   "date_added":"2016-06-09",
+   "place":"Badiah",
+   "title":"Ramadhan Sungkai Buffet",
+   "cost_adult":14.8,
+   "cost_child":8.8,
+   "time_start":null,
+   "time_end":null,
+   "contact":2222888,
+   "location":"Bandar",
+   "surau":"",
+   "notes":"Every 10 Voucers is elgable for 1 Free extra Voucher",
+   "links":"",
+   "source_url":"https://bruneifoodies.co/sungkai2016/",
+   "source_poster":"https://bruneifoodies.files.wordpress.com/2016/06/badiah.jpeg",
+   "poster":"Badiah.jpg"
+ },
+ {
+   "date_added":"2016-06-09",
+   "place":"Piccolo",
+   "title":"Weekend Buffet",
+   "cost_adult":23,
+   "cost_child":15,
+   "time_start":1830,
+   "time_end":2130,
+   "contact":2241558,
+   "location":"Bandar",
+   "surau":"",
+   "notes":"Friday and Saturday. Sun - Thursday Set meal $18.90",
+   "links":"",
+   "source_url":"https://bruneifoodies.co/sungkai2016/",
+   "source_poster":"https://bruneifoodies.files.wordpress.com/2016/06/piccolo11.jpg",
+   "poster":"Piccolo.jpg"
+ } 
 ]
