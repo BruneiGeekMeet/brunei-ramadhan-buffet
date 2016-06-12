@@ -163,11 +163,11 @@
 					    <td>{{ place.cost_child }}</td>
 					    <td>{{ place.time_start | formatTime }}</td>
 					    <td>{{ place.time_end | formatTime }}</td>
-					    <td><ul><li ng-repeat="number in place.numbers"><a href="tel:{{number | removeSpaces }}">{{number | removeSpaces}}</a></li></ul></td>
+					    <td><ul><li ng-repeat="number in place.numbers"><a href="tel:{{number | removeSpacesTel }}">{{number}}</a></li></ul></td>
 					    <td>{{ place.location }}</td>
 					    <td>{{ place.surau }}</td>
 					    <td>{{ place.notes }}</td>
-					    <td><ul><li><a href="{{ place.source_url }}">Link</a></li><li><a href="{{ place.source_poster }}">Poster</a></ul></td>
+					    <td ng-show="place.source_url || place.source_poster"><ul><li ng-show="place.source_url"><a href="{{ place.source_url }}">Link</a></li><li ng-show="place.source_poster"><a href="{{ place.source_poster }}">Poster</a></ul></td>
 			      </tr>
 			    </tbody>
 				</table>
@@ -191,15 +191,15 @@
 							    <div class="field" ng-show="place.contact">
 										<div class="btn-group">
 											<div class="btn btn-default disabled">Tel: </div>
-											<a href="tel:{{number | removeSpaces }}" class="btn btn-primary" ng-repeat="number in place.numbers">
-												{{number | removeSpaces}}</a>
+											<a href="tel:{{number | removeSpacesTel }}" class="btn btn-primary" ng-repeat="number in place.numbers">
+												{{number }}</a>
 										</div>
 									</div>
 							    <div ng-show="place.surau">Surau: {{ place.surau | checkbox}}</div>
 									<a ng-show="showImages" href="images/{{place.poster}}"><img class="field thumbnail" src="images/{{place.poster}}"></a>
 									<div class="well">
 									<div ng-show="place.notes">{{ place.notes }}</div>
-							    <b>Source</b>: <a href="{{ place.source_url }}">Link</a> / <a href="{{ place.source_poster }}">Poster</a></div>
+							    <b>Source</b>: <a ng-show="place.source_url" href="{{ place.source_url }}">Link</a> / <a ng-show="place.source_poster" href="{{ place.source_poster }}">Poster</a></div>
 							  </div>
 							</div>
 			</div>

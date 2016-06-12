@@ -73,6 +73,7 @@ appFilters.filter('checkbox', function() {
 });
 appFilters.filter('formatTime', function() {
   return function(input) {
+    if(!input) return "";
     if(typeof(input) != "undefined"){
         input = input+"";
         if(input.length > 0){
@@ -82,11 +83,12 @@ appFilters.filter('formatTime', function() {
     return input;
   };
 });
-appFilters.filter('removeSpaces', function() {
+appFilters.filter('removeSpacesTel', function() {
   return function(input) {
     if(typeof(input) != "undefined"){
       input = input+"";
       input = input.replace(/ /gi, '');
+      input = input.replace(/ext.*/gi, '');
     }
     return input;
   };
