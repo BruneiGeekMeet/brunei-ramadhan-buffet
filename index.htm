@@ -159,8 +159,8 @@
 								<a ng-show="showImages" href="images/{{place.poster}}"><img class="field thumbnail" src="images/{{place.poster}}"></a>
 
 							</td>
-					    <td>{{ place.cost_adult }}</td>
-					    <td>{{ place.cost_child }}</td>
+					    <td>{{ place.cost_adult | formatPrice}}</td>
+					    <td>{{ place.cost_child | formatPrice}}</td>
 					    <td>{{ place.time_start | formatTime }}</td>
 					    <td>{{ place.time_end | formatTime }}</td>
 					    <td><ul><li ng-repeat="number in place.numbers"><a href="tel:{{number | removeSpacesTel }}">{{number}}</a></li></ul></td>
@@ -183,8 +183,8 @@
 							    <h4 class="">{{ place.title }}</h4>
 
 									<ul class="list-group field">
-									  <li class="list-group-item">Adult: ${{ place.cost_adult }}</li>
-									  <li class="list-group-item">Child: ${{ place.cost_child }}</li>
+									  <li class="list-group-item">Adult: ${{ place.cost_adult | formatPrice}}</li>
+									  <li class="list-group-item">Child: ${{ place.cost_child | formatPrice}}</li>
 									</ul>
 
 							    <div class="field" ng-show="place.time_start">Hours: {{ place.time_start | formatTime }} <span ng-show="place.time_end">- {{ place.time_end | formatTime }}</span></div>

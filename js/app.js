@@ -83,6 +83,12 @@ appFilters.filter('formatTime', function() {
     return input;
   };
 });
+appFilters.filter('formatPrice', function() {
+  return function(input) {
+    if(!input) return "";
+    return parseFloat(input).toFixed(2);
+  };
+});
 appFilters.filter('removeSpacesTel', function() {
   return function(input) {
     if(typeof(input) != "undefined"){
