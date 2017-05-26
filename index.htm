@@ -36,9 +36,14 @@
 	<h1>Brunei Ramadhan Buffets 2017</h1>
 	<div ng-controller="buffetCtrl" ng-cloak="true">
 		<span ng-show="isLoading">Loading...</span>
-		<div ng-repeat="location in uniqueLocations" class="search" name="location">
+		<h4>Location</h4>
+		<span ng-repeat="location in uniqueLocations" class="search" name="location">
 				<label ng-show="location"><input type="checkbox" ng-model="searchLocationData[location]" value="{{location}}" ng-change="savePreferences()" > {{location}}</label>
-		</div>
+		</span>
+		<h4>Cuisine</h4>
+		<span ng-repeat="cuisine in uniqueCuisines" class="search" name="cuisine">
+				<label ng-show="cuisine"><input type="checkbox" ng-model="searchCuisineData[cuisine]" value="{{cuisine}}" ng-change="savePreferences()" > {{cuisine}}</label>
+		</span>
  		<!--
 		<div class="input-group">
 			Budget: <input type="" style="width: 3em" placeHolder="" class="search" value="{{budget}}">
@@ -141,6 +146,13 @@
 			          </a>
 			        </th>
 							<th>
+			          <a href="#" ng-click="sortType = 'cuisine'; sortReverse = !sortReverse">
+			          	Cuisine
+			            <span ng-show="sortType == 'cuisine' && !sortReverse" class="fa fa-caret-down"></span>
+			            <span ng-show="sortType == 'cuisine' && sortReverse" class="fa fa-caret-up"></span>
+			          </a>
+			        </th>
+							<th>
 			          <a href="#" ng-click="sortType = 'source'; sortReverse = !sortReverse">
 			          	Source
 			            <span ng-show="sortType == 'source' && !sortReverse" class="fa fa-caret-down"></span>
@@ -167,6 +179,7 @@
 					    <td>{{ place.location }}</td>
 					    <td>{{ place.surau }}</td>
 					    <td>{{ place.notes }}</td>
+					    <td><ul><li ng-repeat="cuisine in place.cuisines">{{cuisine}}</li></ul><span ng-show="place.food_notes">({{ place.food_notes}})</span></td>
 					    <td ng-show="place.source_url || place.source_poster"><ul><li ng-show="place.source_url"><a href="{{ place.source_url }}">Link</a></li><li ng-show="place.source_poster"><a href="{{ place.source_poster }}">Poster</a></ul></td>
 			      </tr>
 			    </tbody>
@@ -187,7 +200,7 @@
 									  <li class="list-group-item">Child: ${{ place.cost_child | formatPrice}}</li>
 									</ul>
 
-							    <div class="field" ng-show="place.time_start">Hours: {{ place.time_start | formatTime }} <span ng-show="place.time_end">- {{ place.time_end | formatTime }}</span></div>
+							    <div class="field" ng-show="place.time_start"><b>Hours: {{ place.time_start | formatTime }} <span ng-show="place.time_end">- {{ place.time_end | formatTime }}</span></b></div>
 							    <div class="field" ng-show="place.contact">
 										<div class="btn-group">
 											<div class="btn btn-default disabled">Tel: </div>
@@ -195,6 +208,15 @@
 												{{number }}</a>
 										</div>
 									</div>
+					    		<div>
+
+								<span ng-repeat="cuisine in place.cuisines">
+									<span class="cuisine label label-default"> 
+									{{ cuisine }}
+									</span>
+									 &nbsp; 
+								</span>
+								<span ng-show="place.food_notes">({{ place.food_notes}})</span></div>
 							    <div ng-show="place.surau">Surau: {{ place.surau | checkbox}}</div>
 									<a ng-show="showImages" href="images/{{place.poster}}"><img class="field thumbnail" src="images/{{place.poster}}"></a>
 									<div class="well">

@@ -4,6 +4,9 @@ ul {
 	padding-left: 1em;
 }
 
+.cuisine.label{
+	font-size: 1.2em;
+}
 .location.label{
 	font-size: 1.2em;
 	text-align: right;
