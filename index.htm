@@ -210,13 +210,15 @@
 									</div>
 					    		<div>
 
+					    		<div class="cuisines">
 								<span ng-repeat="cuisine in place.cuisines">
 									<span class="cuisine label label-default"> 
 									{{ cuisine }}
 									</span>
 									 &nbsp; 
 								</span>
-								<span ng-show="place.food_notes">({{ place.food_notes}})</span></div>
+								<div ng-show="place.food_notes">({{ place.food_notes}})</div>
+								</div>
 							    <div ng-show="place.surau">Surau: {{ place.surau | checkbox}}</div>
 									<a ng-show="showImages" href="images/{{place.poster}}"><img class="field thumbnail" src="images/{{place.poster}}"></a>
 									<div class="well">

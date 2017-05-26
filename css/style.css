@@ -6,6 +6,10 @@ ul {
 
 .cuisine.label{
 	font-size: 1.2em;
+	line-height: 2em;
+}
+div.cuisines{
+	margin: 1.2em 0;
 }
 .location.label{
 	font-size: 1.2em;
