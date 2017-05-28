@@ -55,3 +55,30 @@ h1 {
 		font-size: 36px;
 	}
 }
+
+
+a[ng-click]{
+    cursor: pointer;
+}
+
+#updateAvailabe{
+	text-align: center;
+	position: fixed;
+	top: 0.5em;
+	width: 95%;
+	padding-bottom: 0.5em; 
+	margin: 0 auto;
+	border: 1px solid green;
+	background-color: white;
+}
+#updateAvailabe h4{
+	margin:0;
+	padding: 0.5em;
+	background-color: green;
+	color: #fff;
+}
+#updateAvailabe button {
+	font-weight: bold;
+	border: 1px solid lightgray;
+	background-color: lightgray;
+}

@@ -18,8 +18,15 @@ appControllers.controller('buffetCtrl', ['$scope', '$filter', '$http', '$sce', '
   $scope.data = [];
   $scope.uniqueLocations = [];
   $scope.uniqueCuisines = [];
-
-
+  $scope.changeLog = null;
+  $http.get("data/changelog.json").success(function(data){
+    try
+    {
+      $scope.changeLog = data[0];
+    }
+    catch(e){
+    }
+  });
   $http.get("data/buffets.json").success(function(data) {
       var locations = data.map(function(x){ return x.location});
       var cuisines = [];
@@ -130,3 +137,24 @@ var theApp = angular.module('myApp', [
   'appControllers',
   'appFilters'
 ]);
+
+
+//
+// https://www.html5rocks.com/en/tutorials/appcache/beginner/
+// Check if a new cache is available on page load.
+document.getElementById("updateReload").addEventListener('click', function(e){
+  e.preventDefault();
+  window.location.reload();
+});
+document.getElementById("updateDismiss").addEventListener('click', function(e){
+  e.preventDefault();
+  document.getElementById("updateAvailabe").style.display="none";
+});
+window.addEventListener('load', function(e) {
+  window.applicationCache.addEventListener('updateready', function(e) {
+    if (window.applicationCache.status == window.applicationCache.UPDATEREADY) {
+      document.getElementById("updateAvailabe").style.display="";
+    }
+  }, false);
+
+}, false);
