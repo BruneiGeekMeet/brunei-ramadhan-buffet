@@ -65,11 +65,14 @@ a[ng-click]{
 	text-align: center;
 	position: fixed;
 	top: 0.5em;
-	width: 95%;
+    left: 0;
+    right: 0;
 	padding-bottom: 0.5em; 
-	margin: 0 auto;
 	border: 1px solid green;
 	background-color: white;
+    padding-bottom: 0.5em;
+    margin: 0 1em;
+
 }
 #updateAvailabe h4{
 	margin:0;
