@@ -1,7 +1,6 @@
 CACHE MANIFEST
 index.htm
 data/buffets.json
-data/changelog.json
 css/style.css
 css/bootstrap.min.css
 js/app.js
@@ -10,4 +9,4 @@ lib/jquery/jquery.min.js
 lib/underscore/underscore-min.js
 NETWORK:
 *
-# Hash: 154c6f582646f038a46e15df1e31af36d3f9c2eaa7461ed1526199b718a2d67e1a33a4b53a9ddd82b9052e48c317b4d937496dabefd6cda72909cf348788e73d680fb2f8dd90fa8a9ab0b0c403bf2e65
+# Hash: 154c6f582646f038a46e15df1e31af36d3f9c2eaa7461ed1526199b718a2d67e37496dabefd6cda72909cf348788e73d680fb2f8dd90fa8a9ab0b0c403bf2e65
