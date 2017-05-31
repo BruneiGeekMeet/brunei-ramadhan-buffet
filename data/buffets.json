@@ -874,7 +874,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -893,7 +893,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -912,7 +912,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -931,7 +931,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -950,7 +950,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -969,7 +969,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -988,7 +988,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -1007,7 +1007,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Pizza Hut",
     "title": "Sunkgai Buffet",
     "cost_adult": 15,
@@ -1026,7 +1026,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Rack and Brew Cafe",
     "title": "Ramadhan Sungkai Buffet",
     "cost_adult": 29.9,
@@ -1045,7 +1045,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Ricebowl Restaurant (Batu Bersurat)",
     "title": "Sungkai All-You-Can-Eat",
     "cost_adult": 15,
@@ -1064,7 +1064,7 @@
     "food_notes": ""
   },
   {
-    "date_added": "2017-05-28",
+    "date_added": "2017-05-30",
     "place": "Boat Noodle Restaurant",
     "title": "Ramadhan Buffet",
     "cost_adult": 14.9,
@@ -1080,6 +1080,63 @@
     "source_poster": "https://lh3.googleusercontent.com/-1rNYD0-QHsA/WSwb9rN-KdI/AAAAAAAArAI/Se-JGyxsp-cs0JnGjqXfZuXmwQDbYYALgCHM/s1600/boatnoodle%255B4%255D",
     "poster": "Boat Noodle Restaurant.jpg",
     "cuisine": "Thai",
+    "food_notes": ""
+  },
+  {
+    "date_added": "2017-05-31",
+    "place": "Ceri Cafe (Gadong Central)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 9.8,
+    "cost_child": 4.8,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2423997,
+    "location": "Gadong",
+    "surau": "",
+    "notes": "Free for children under 6 years. Group of 10 and get 1 free buffet meal",
+    "links": "",
+    "source_url": "http://www.thanislim.com/2017/05/brunei-sungkai-posters-2017-your-portal.html",
+    "source_poster": "https://lh3.googleusercontent.com/-ItVUOEHVAj0/WS0b7AtczUI/AAAAAAAArJo/yHP6NdVT_VIaPmdJrWT3j6pxZlRocCvOwCHM/s1600/WhatsApp%2BImage%2B2017-05-30%2Bat%2B8.06.03%2BAM%255B2%255D",
+    "poster": "Ceri Cafe.jpg",
+    "cuisine": "",
+    "food_notes": ""
+  },
+  {
+    "date_added": "2017-05-31",
+    "place": "Badiah Hotel",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 14.8,
+    "cost_child": 8.8,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2222888,
+    "location": "Bandar",
+    "surau": "",
+    "notes": "Free for children under 6 years",
+    "links": "",
+    "source_url": "http://www.thanislim.com/2017/05/brunei-sungkai-posters-2017-your-portal.html",
+    "source_poster": "https://lh3.googleusercontent.com/-U0Witqg9mHY/WS0cD8EzB7I/AAAAAAAArKI/mB_0Z5bxWEoffHVz4abXqEAowRS84lizACHM/s1600/Sungkai-07%255B4%255D",
+    "poster": "Badiah Hotel.jpg",
+    "cuisine": "",
+    "food_notes": ""
+  },
+  {
+    "date_added": "2017-05-31",
+    "place": "Pho Hoa Vietnamese Restaurant",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 15.9,
+    "cost_child": 9.9,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": "2236218 / 8838822",
+    "location": "Kiulap",
+    "surau": "",
+    "notes": "Free for children under 3 years",
+    "links": "",
+    "source_url": "http://www.thanislim.com/2017/05/brunei-sungkai-posters-2017-your-portal.html",
+    "source_poster": "https://lh3.googleusercontent.com/-_8D-LGg7bsU/WS2IDqvJJxI/AAAAAAAArKc/lqdQVHDlpQUg3MpQxNDd9x2tFLwznkcRgCHM/s1600/18814012_10213146680531226_2096629716637504239_n%255B4%255D",
+    "poster": "Pho Hoa Vietnamese Restaurant.jpg",
+    "cuisine": "Vietnamese",
     "food_notes": ""
   }
 ]
