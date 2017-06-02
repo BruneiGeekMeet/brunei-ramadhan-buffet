@@ -1271,5 +1271,24 @@
     "poster": "MyPlaceKiulap.jpg",
     "cuisine": "Asian",
     "food_notes": ""
+  },
+  {
+    "date_added": "2017-06-02",
+    "place": "Royal Brunei Recreation Club (RBRC)",
+    "title": "RMRC Sungkai Ramadhan with Anjung Saujana",
+    "cost_adult": 21.9,
+    "cost_child": 9.9,
+    "time_start": 1800,
+    "time_end": 2200,
+    "contact": "8746870 / 7102711",
+    "location": "Anggerek Desa",
+    "surau": "",
+    "notes": "Child: 5-11 years old. 1-24 June, Thursdays to Sundays. 18.90 for adults RBRC / RBC / Royal Skies Members",
+    "links": "",
+    "source_url": "https://www.instagram.com/p/BUyRSLvAVAl/",
+    "source_poster": "https://instagram.fbwn1-1.fna.fbcdn.net/t51.2885-15/s750x750/sh0.08/e35/18809715_1461436120564573_2262128943744155648_n.jpg",
+    "poster": "RBRC.jpg",
+    "cuisine": "",
+    "food_notes": ""
   }
 ]
