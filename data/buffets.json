@@ -1,5 +1,13 @@
 [
   {
+    "date_added": "2018-05-27",
+    "place": "Radisson Hotel",
+    "title": "Ramadhan Buffet Dinner",
+    "cost_adult": 29,
+    "cost_child": 14.5,
+    "time_start": 1830,
+    "time_end": 2130,
+    "contact": "2244272 ext 8872",
     "location": "Bandar",
     "surau": "",
     "notes": "Child: between 4 to 11 years old. For every 9 adults, 10th free",
@@ -11,6 +19,14 @@
     "food_notes": "Lamb on the spit"
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Radisson Hotel",
+    "title": "Ramadhan Buffet Dinner",
+    "cost_adult": 32,
+    "cost_child": 16,
+    "time_start": 1830,
+    "time_end": 2130,
+    "contact": "2244272 ext 8872",
     "location": "Bandar",
     "surau": "",
     "notes": "Child: between 4 to 11 years old. For every 9 adults, 10th free",
@@ -22,6 +38,14 @@
     "food_notes": "Lamb on the spit"
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Kimchi Restaurant Korean BBQ",
+    "title": "Sungkai BBQ All You Can Eat",
+    "cost_adult": 29.9,
+    "cost_child": 15.9,
+    "time_start": 1800,
+    "time_end": 2200,
+    "contact": "2222233 / 7122283",
     "location": "Kiulap",
     "surau": "",
     "notes": "Child < 12. 20% off take away 1130-1730. Business hours: 1130-2330. Shabu-shabu promto 8pm onwards. Up to 30% off BIBD Festive Promo",
@@ -33,6 +57,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "SCR Xpress Citis Square Branch",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 8.88,
+    "cost_child": 7.88,
+    "time_start": "",
+    "time_end": "",
+    "contact": "7180315 / 2339391",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Child: 6-12 years old. 5-3: 2.88. 2 y/o below: free",
@@ -44,6 +76,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Emperors Court",
+    "title": "Sungkai Buffet",
+    "cost_adult": 22.8,
+    "cost_child": 15.8,
+    "time_start": 1830,
+    "time_end": 2100,
+    "contact": "2337738 / 8757066 / 8759066",
     "location": "Manggis",
     "surau": "",
     "notes": "Child: 5-11 years old. Up to 15% discount with BIBD cards. 30% BIBD Card discount on 26 May, 2 June, 9 June, 13 June",
@@ -55,6 +95,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Emperors Court",
+    "title": "Sahur DimSum Buffet",
+    "cost_adult": 20.8,
+    "cost_child": 14.8,
+    "time_start": 2300,
+    "time_end": 200,
+    "contact": "2337738 / 8757066 / 8759066",
     "location": "Manggis",
     "surau": "",
     "notes": "Child: 5-11 years old. 10% discount on all credit cards. 15% on cash payment. For every 8 sungkai dine ins, 1 sahur voucher",
@@ -66,6 +114,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "CheezBox Restaurant",
+    "title": "Ramdhan Buffet",
+    "cost_adult": 29.9,
+    "cost_child": 15,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2425506 / 813 5814",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: 6-12 years old. Free for seniors above 55 years old (with every 4 adults). CheezBox member discount: 20% black, 10% gold, 5% silver. Buffet vouchers: 'Buy 5 Free 1.",
@@ -77,6 +133,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Rack and Brew Cafe",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 33,
+    "cost_child": 16,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": "2457886 / 7299668",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: 5-11 years. Free for children below age 4",
@@ -88,6 +152,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "All Time Delights / Paddington House of Pancakes",
+    "title": "Sungkai Buffet",
+    "cost_adult": 22.9,
+    "cost_child": 12,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": "2331668 / 7291668",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Business Hours: 1300-2300. 20% off takwaway 1300-1730. 20% off ala carte 8pm onwards. Up to 30% BIB Festive Promo",
@@ -99,6 +171,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "The Silk Road Restaurant x Nyamantastic",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 10,
+    "time_start": 1800,
+    "time_end": 2200,
+    "contact": "2230471 / 7145539",
     "location": "Kiulap",
     "surau": "",
     "notes": "Child: 4-11 years. Business Hours: 1730 - 2200",
@@ -110,6 +190,14 @@
     "food_notes": "Lamb & Roast Duck"
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Secret Recipe",
+    "title": "All You Can Eat Pasta",
+    "cost_adult": 14.8,
+    "cost_child": "",
+    "time_start": 1830,
+    "time_end": "",
+    "contact": "",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Kids 1 - 5 years old eat for free",
@@ -121,6 +209,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Secret Recipe",
+    "title": "All You Can Eat Pasta",
+    "cost_adult": 14.8,
+    "cost_child": "",
+    "time_start": 1830,
+    "time_end": "",
+    "contact": "",
     "location": "Sengkurong",
     "surau": "",
     "notes": "Kids 1 - 5 years old eat for free",
@@ -132,6 +228,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Sate House",
+    "title": "Sungkai Buffet",
+    "cost_adult": 19.9,
+    "cost_child": 10.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2231027,
     "location": "Kiulap",
     "surau": "",
     "notes": "Child: 5-12 years",
@@ -143,6 +247,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Red Canopy Cafe",
+    "title": "Sungkai Buffet",
+    "cost_adult": 7.8,
+    "cost_child": 4.8,
+    "time_start": 1830,
+    "time_end": 2030,
+    "contact": "242 5855 / 8772829",
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -154,6 +266,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Twelv",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 22.9,
+    "cost_child": 17,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2239771,
     "location": "Kiulap",
     "surau": "",
     "notes": "Child: 6-11 years. Business Hours 1500-0300",
@@ -165,6 +285,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (Gadong)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 2455131,
     "location": "Gadong",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -176,6 +304,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (Sengkurong)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 2672479,
     "location": "Sengkurong",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -187,6 +323,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (Bengkurong)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 2652557,
     "location": "Bengkurong",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -198,6 +342,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (Lambank)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 2334301,
     "location": "Lambak",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -209,6 +361,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (Serusop)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 2338466,
     "location": "Serusop",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -220,6 +380,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (Tutong)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 4220227,
     "location": "Tutong",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -231,6 +399,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (KB)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 3335140,
     "location": "Kuala Belait",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -242,6 +418,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "WYWY Restaurant Group (KB)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 10,
+    "cost_child": 7.8,
+    "time_start": 1730,
+    "time_end": 1900,
+    "contact": 3224717,
     "location": "Seria",
     "surau": "",
     "notes": "Children: below 7 years old",
@@ -253,6 +437,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Anjung Saujana",
+    "title": "Sungkai Buffet",
+    "cost_adult": 27,
+    "cost_child": 12,
+    "time_start": 1700,
+    "time_end": 2130,
+    "contact": "2331853 / 7293848",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "10% discount for RBC card. 15% Baiduri",
@@ -264,6 +456,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Anjung Saujana",
+    "title": "Sahur Buffet",
+    "cost_adult": 9.9,
+    "cost_child": 6.9,
+    "time_start": 2130,
+    "time_end": 100,
+    "contact": "2331853 / 7293848",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Thursday, Friday, Saturday only",
@@ -275,6 +475,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "RBC Lifestyle",
+    "title": "Mongolian Hot Pot",
+    "cost_adult": 12,
+    "cost_child": 8,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2220185 / 2220186 / 7293848",
     "location": "Bandar",
     "surau": "",
     "notes": "Not on Mondays. Child: 5-11 years old.10% discount for RBC card. 15% Baiduri",
@@ -286,6 +494,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Dynasty",
+    "title": "Sungkai Buffet",
+    "cost_adult": 25,
+    "cost_child": 13.8,
+    "time_start": 1730,
+    "time_end": 2100,
+    "contact": "2430185 / 2430186 /  7293848",
     "location": "Gadong",
     "surau": "",
     "notes": "10% discount for RBC card. 15% Baiduri",
@@ -297,6 +513,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Dynasty",
+    "title": "Dimsum Sahur Buffet",
+    "cost_adult": 22.8,
+    "cost_child": 13.8,
+    "time_start": 2300,
+    "time_end": 300,
+    "contact": "2430185 / 2430186 /  7293848",
     "location": "Gadong",
     "surau": "",
     "notes": "10% discount for RBC card. 15% Baiduri",
@@ -308,6 +532,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Horizons",
+    "title": "Cita Rasa Nalayan Seafood Sungkai Buffet",
+    "cost_adult": 24.9,
+    "cost_child": 12.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2233400 /  2233401",
     "location": "Bandar",
     "surau": "",
     "notes": "10% discount for RBC card. 15% Baiduri",
@@ -319,6 +551,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Buccaneer",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1830,
+    "time_end": 2130,
+    "contact": 3347337,
     "location": "Kuala Belait",
     "surau": "",
     "notes": "Child: 4-10 years. Pay 5 Get 1 Free",
@@ -330,6 +570,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "The Empire Hotel Atrium",
+    "title": "Sungkai Buffet",
+    "cost_adult": 25,
+    "cost_child": 12.5,
+    "time_start": 1800,
+    "time_end": 2030,
+    "contact": 2418888,
     "location": "Rimba",
     "surau": "",
     "notes": "Child: ages 6-11. $22.50 for tables of 10 or more. 10% service charge",
@@ -341,6 +589,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Swensens",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 16.8,
+    "cost_child": 12,
+    "time_start": 1800,
+    "time_end": 2000,
+    "contact": 2451864,
     "location": "Gadong",
     "surau": "",
     "notes": "Free Buffet Voucher: Every Diner of 6",
@@ -352,6 +608,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Swensens",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 16.8,
+    "cost_child": 12,
+    "time_start": 1800,
+    "time_end": 2000,
+    "contact": 2662264,
     "location": "Sengkurong",
     "surau": "",
     "notes": "Free Buffet Voucher: Every Diner of 6",
@@ -363,6 +627,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Wafa Hotel & Apartment (Annajat Complex)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 19.8,
+    "cost_child": 12.8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": "2425889 / 7289409 (Whatsapp)",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: Between 5-12. 15% off age above 60. Discount for BIBD cards",
@@ -374,6 +646,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Mulia Hotel",
+    "title": "Ramadan Sungkai Buffet",
+    "cost_adult": 23,
+    "cost_child": 13,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": "2335544 ext 8023",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Child: 5-11 years. BIBD 15% off. 30% off on 26 May, 2/9/13 June,",
@@ -385,6 +665,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Mulia Hotel",
+    "title": "Sahur",
+    "cost_adult": 16.8,
+    "cost_child": 10.8,
+    "time_start": 2200,
+    "time_end": 200,
+    "contact": "2335544 ext 8112",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Child: 5-11 years.",
@@ -396,6 +684,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Verve",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 18,
+    "cost_child": "",
+    "time_start": "",
+    "time_end": "",
+    "contact": "",
     "location": "Gadong",
     "surau": "",
     "notes": "20% off drinks",
@@ -407,6 +703,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Frescho (Batu Satu)",
+    "title": "Dua Sungkai Buffet",
+    "cost_adult": 22.9,
+    "cost_child": 11.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2201174,
     "location": "Bandar",
     "surau": "",
     "notes": "",
@@ -418,6 +722,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Frescho (Parkview)",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 28.5,
+    "cost_child": 14.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "261 0421 / 7293131",
     "location": "Jerudong",
     "surau": "",
     "notes": "Child: 6-12 years old. 5 years and below free",
@@ -429,6 +741,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "KB Sentral",
+    "title": "Grand Buffet",
+    "cost_adult": 28.5,
+    "cost_child": 14.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "7197441 / 3341857",
     "location": "Kuala Belait",
     "surau": "",
     "notes": "Child: 6-12 years old. 5 years and below free",
@@ -440,6 +760,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Shinobu",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 18.9,
+    "cost_child": 10.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2337986,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "",
@@ -451,6 +779,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Seoul Garden",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 24.5,
+    "cost_child": 13.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2610263,
     "location": "Jerudong",
     "surau": "",
     "notes": "Child: 6-12 years old. 5 years and below free. 18.50 for Senior Citizen (55 years and above)",
@@ -462,6 +798,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "All Seasons (Times Square)",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 19.9,
+    "cost_child": 10.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2338068,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Child: 6-12 years old. 5 years old below free",
@@ -473,6 +817,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pastamania (Times Square)",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 17.9,
+    "cost_child": 9.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2338061,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Child: 6-12 years old. 5 years old below free",
@@ -484,6 +836,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Seasons",
+    "title": "Letop Ramadhan Al-Mubarak",
+    "cost_adult": 25,
+    "cost_child": 13,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": "2422291 / 2422292 / 7293848",
     "location": "Gadong",
     "surau": "",
     "notes": "10% discount for RBC card. 15% Baiduri card",
@@ -495,6 +855,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "StarLodge Brunei",
+    "title": "Sungkai Buffet",
+    "cost_adult": 24.8,
+    "cost_child": 12,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2611618 / 2611420",
     "location": "Jerudong",
     "surau": "",
     "notes": "",
@@ -506,6 +874,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Gwad Basha",
+    "title": "Sungkai Buffet",
+    "cost_adult": 21.9,
+    "cost_child": 15,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2450009 / 8240666 / 7100015 / 8640666",
     "location": "Gadong",
     "surau": "",
     "notes": "Below 6 years old free",
@@ -517,6 +893,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Genki",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 16.9,
+    "cost_child": 8.9,
+    "time_start": 1830,
+    "time_end": 2130,
+    "contact": "2332118 / 8292130",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Kids 4 years and below free",
@@ -528,6 +912,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Aranda Kitchen of Jasmine",
+    "title": "Sungkai Buffet",
+    "cost_adult": 16,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2000,
+    "contact": 2671553,
     "location": "Jerudong",
     "surau": "",
     "notes": "Child: 4-10",
@@ -539,6 +931,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Rasa Ceria Cafe",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 12,
+    "cost_child": 5,
+    "time_start": 1600,
+    "time_end": 2100,
+    "contact": "2650900 / 8747992",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: 6-12",
@@ -550,6 +950,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Brunei Rivercruise",
+    "title": "Sungkai Sunset Cruise",
+    "cost_adult": 38,
+    "cost_child": 28,
+    "time_start": 1730,
+    "time_end": 1930,
+    "contact": "",
     "location": "Bandar",
     "surau": "",
     "notes": "Child: 6-11. Child 3-5: $19. Non resident adult $45, Non resident child: $35",
@@ -561,6 +969,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -572,6 +988,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Manggis",
     "surau": "",
     "notes": "",
@@ -583,6 +1007,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Sengkurong",
     "surau": "",
     "notes": "",
@@ -594,6 +1026,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Tutong",
     "surau": "",
     "notes": "",
@@ -605,6 +1045,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Kuala Belait",
     "surau": "",
     "notes": "",
@@ -616,6 +1064,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Muara",
     "surau": "",
     "notes": "",
@@ -627,6 +1083,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Seria",
     "surau": "",
     "notes": "",
@@ -638,6 +1102,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Pizza Hut",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15,
+    "cost_child": 8,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 2226111,
     "location": "Kiulap",
     "surau": "",
     "notes": "",
@@ -649,6 +1121,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Nur Wanita",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 22,
+    "cost_child": 12,
+    "time_start": "",
+    "time_end": "",
+    "contact": 3347789,
     "location": "Kuala Belait",
     "surau": "",
     "notes": "Child: 5-10",
@@ -660,6 +1140,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Nur Wanita",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 22,
+    "cost_child": 12,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2771879,
     "location": "Serasa",
     "surau": "",
     "notes": "",
@@ -671,6 +1159,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Yugo",
+    "title": "Sungkai Buffet",
+    "cost_adult": 16.9,
+    "cost_child": 9,
+    "time_start": 1800,
+    "time_end": 2000,
+    "contact": "",
     "location": "Kiulap",
     "surau": "",
     "notes": "Child: 4-12",
@@ -682,6 +1178,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Yugo Charcoal Grill and Shabu Shabu",
+    "title": "Grill & Shabu Shabu All You Can Eat Buffet",
+    "cost_adult": 24.8,
+    "cost_child": 12.8,
+    "time_start": 1815,
+    "time_end": 2200,
+    "contact": "",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: 4-11. 5+1 deal: 6th person free for every 5. 50% off 4th person for every 3",
@@ -693,6 +1197,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Boat Noodle",
+    "title": "Sungkai Buffet",
+    "cost_adult": 14.9,
+    "cost_child": 9.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "",
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -704,6 +1216,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "iLotus",
+    "title": "Sahur Buffet",
+    "cost_adult": 18.8,
+    "cost_child": 11.8,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2422466 / 2440171 / 8714222",
     "location": "Rimba",
     "surau": "",
     "notes": "BIBD cards: Up to 30%",
@@ -715,6 +1235,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "iLotus",
+    "title": "Sungkai Buffet",
+    "cost_adult": 24.8,
+    "cost_child": 16.8,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2422466 / 2440171 / 8714222",
     "location": "Rimba",
     "surau": "",
     "notes": "Baiduri & BIBD cards: Up to 30%",
@@ -726,6 +1254,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Rizqun",
+    "title": "Buffet Dinner",
+    "cost_adult": 26,
+    "cost_child": 15,
+    "time_start": 1730,
+    "time_end": 2030,
+    "contact": "2423000 Ext 7811",
     "location": "Gadong",
     "surau": "Y",
     "notes": "",
@@ -737,6 +1273,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Yellow Cab Pizza Co",
+    "title": "All You Can Eat",
+    "cost_adult": 14.9,
+    "cost_child": 7.9,
+    "time_start": 1800,
+    "time_end": 2000,
+    "contact": "",
     "location": "Kiulap",
     "surau": "",
     "notes": "Chlid: 12 yo and below",
@@ -748,6 +1292,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Yellow Cab Pizza Co",
+    "title": "All You Can Eat",
+    "cost_adult": 14.9,
+    "cost_child": 7.9,
+    "time_start": 1800,
+    "time_end": 2000,
+    "contact": "",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Chlid: 12 yo and below",
@@ -759,6 +1311,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Amanah Harith",
+    "title": "Buffet Ramadhan",
+    "cost_adult": 10.9,
+    "cost_child": 6.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2612140 / 8884546 / 8801697 / 8691881",
     "location": "Jerudong",
     "surau": "",
     "notes": "Child: 5-9 years old",
@@ -770,6 +1330,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Sweet Kampong",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 6,
+    "cost_child": "",
+    "time_start": "",
+    "time_end": "",
+    "contact": "8971169 / 2671487 / 8343984",
     "location": "Kiulap",
     "surau": "",
     "notes": "",
@@ -781,6 +1349,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Sweet Kampong",
+    "title": "Ramadhan Ambuyat Buffet",
+    "cost_adult": 8,
+    "cost_child": "",
+    "time_start": "",
+    "time_end": "",
+    "contact": "8971169 / 2671487 / 8343984",
     "location": "Kiulap",
     "surau": "",
     "notes": "",
@@ -792,6 +1368,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Rezz Kitchen",
+    "title": "Ramadhan Mini Sungkai Buffet",
+    "cost_adult": 5.5,
+    "cost_child": 3.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "",
     "location": "Berakas",
     "surau": "",
     "notes": "",
@@ -803,6 +1387,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Kokokan Eatery and Catering",
+    "title": "Sungkai Buffet",
+    "cost_adult": 13.9,
+    "cost_child": 9.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2440098 / 7299988",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: 4-11 years old",
@@ -814,6 +1406,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Yum-a-Cha by Misato",
+    "title": "Sungkai Buffet",
+    "cost_adult": 20.8,
+    "cost_child": 11.8,
+    "time_start": 1730,
+    "time_end": 2100,
+    "contact": 2339159,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "",
@@ -825,6 +1425,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "De Layar Seafood Restaurant",
+    "title": "Sungkai Buffet",
+    "cost_adult": 14.5,
+    "cost_child": 9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2429909 / 7200667",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: 4-12 years old",
@@ -836,6 +1444,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Seri Kandi BSRC",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 13.5,
+    "cost_child": 8,
+    "time_start": "",
+    "time_end": "",
+    "contact": "3372126 / 8762936 / 8833058",
     "location": "Seria",
     "surau": "",
     "notes": "",
@@ -847,6 +1463,14 @@
     "food_notes": "Whole Lamb BBQ"
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Seri Kandi Panaga",
+    "title": "Sungkai Buffet",
+    "cost_adult": 13.5,
+    "cost_child": 8.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "3372350 / 337750 / 7194886 / 8833058",
     "location": "Kuala Belait",
     "surau": "",
     "notes": "Child: 4-12. Below 4 years old free",
@@ -858,6 +1482,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Seri Kandi KB",
+    "title": "Sungkai Buffet",
+    "cost_adult": 14.9,
+    "cost_child": 7.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "3332862 / 8833058",
     "location": "Kuala Belait",
     "surau": "",
     "notes": "Child: 4-12. Below 4 years old free",
@@ -869,6 +1501,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Burger Diary",
+    "title": "Burger Buffet",
+    "cost_adult": 15.9,
+    "cost_child": 7.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "",
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -880,6 +1520,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Ceri Cafe",
+    "title": "Sungkai Buffet (Delima)",
+    "cost_adult": 10.8,
+    "cost_child": 6.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2339997 (Delima)",
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Child under 6 free. Come in group of 10 and 1 get free",
@@ -891,6 +1539,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Ceri Cafe",
+    "title": "Sungkai Buffet (Kiulap)",
+    "cost_adult": 10.8,
+    "cost_child": 6.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2234997 (Kiulap)",
     "location": "Kiulap",
     "surau": "",
     "notes": "Child under 6 free. Come in group of 10 and 1 get free",
@@ -902,6 +1558,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Ceri Cafe",
+    "title": "Sungkai Buffet (Gadong Central)",
+    "cost_adult": 9.8,
+    "cost_child": 6.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2423997 (Gadong Central)",
     "location": "Gadong",
     "surau": "",
     "notes": "Child under 6 free. Come in group of 10 and 1 get free",
@@ -913,6 +1577,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Coffee Field",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 14.9,
+    "cost_child": 8,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2422006 / 7229042",
     "location": "Gadong",
     "surau": "",
     "notes": "Senior: 10.90 (60 yeras and above)",
@@ -924,6 +1596,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Food Messenger",
+    "title": "All you can eat",
+    "cost_adult": 14.9,
+    "cost_child": 9.9,
+    "time_start": 1730,
+    "time_end": "",
+    "contact": "2424886 / 7319775",
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -935,6 +1615,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Coco Cafe",
+    "title": "Sungkai Roast",
+    "cost_adult": 33,
+    "cost_child": 15,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2424566,
     "location": "Gadong",
     "surau": "",
     "notes": "Child below 4 free",
@@ -946,6 +1634,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "DKAS",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 8.9,
+    "cost_child": 5.5,
+    "time_start": 1700,
+    "time_end": 2100,
+    "contact": 7318118,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "",
@@ -957,6 +1653,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Balkony",
+    "title": "Sungkai Buffet",
+    "cost_adult": 18.9,
+    "cost_child": 12.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 8299097,
     "location": "Kiulap",
     "surau": "",
     "notes": "",
@@ -968,6 +1672,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Mamih (Mata-Mata)",
+    "title": "Sungkai Buffet",
+    "cost_adult": 13.9,
+    "cost_child": 7.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 8299097,
     "location": "Gadong",
     "surau": "",
     "notes": "Child: Under 12 years old. 4 years below free",
@@ -979,6 +1691,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Delhi Darbar (Gadong)",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 9.5,
+    "cost_child": 5.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2331617 / 8998745",
     "location": "Gadong",
     "surau": "",
     "notes": "Child: 5-10 years old. Hours: 2pm - 10pm",
@@ -990,6 +1710,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Delhi Darbar (Jerudong)",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 9.5,
+    "cost_child": 5.5,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2267826 / 8998745",
     "location": "Jerudong",
     "surau": "",
     "notes": "Child: 5-10 years old. Hours: 2pm - 10pm",
@@ -1001,6 +1729,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Bristodeli",
+    "title": "Ramadan Buffet",
+    "cost_adult": 12.9,
+    "cost_child": 6.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "2220074 / 8313328",
     "location": "Bandar",
     "surau": "",
     "notes": "Child: between 6-10 years",
@@ -1012,6 +1748,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Yasmalina Restaurant",
+    "title": "Buffet",
+    "cost_adult": 12,
+    "cost_child": 7,
+    "time_start": "",
+    "time_end": "",
+    "contact": 8854666,
     "location": "Kota Batu",
     "surau": "",
     "notes": "Child: 3-11. Below 3 free",
@@ -1023,6 +1767,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Kate’s Catering",
+    "title": "Sungkai Buffet Dinner",
+    "cost_adult": 8.9,
+    "cost_child": 5.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": "3236483 / 7114386",
     "location": "Lumut",
     "surau": "",
     "notes": "",
@@ -1034,6 +1786,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Tummie's Kitchen",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 10.9,
+    "cost_child": 6.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 7233367,
     "location": "Berakas",
     "surau": "",
     "notes": "Child: 5-11 years",
@@ -1045,6 +1805,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Tandoor",
+    "title": "Sungkai Buffet",
+    "cost_adult": 22,
+    "cost_child": 12,
+    "time_start": 1800,
+    "time_end": 2230,
+    "contact": "2450182 / 8298670 / 8829495",
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -1056,6 +1824,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Jessamine Restaurant",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 7.5,
+    "cost_child": 5,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2341394,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Monday - Friday",
@@ -1067,6 +1843,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Jessamine Restaurant",
+    "title": "Ramadhan Buffet",
+    "cost_adult": 11,
+    "cost_child": "",
+    "time_start": "",
+    "time_end": "",
+    "contact": 2341394,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "Weekend",
@@ -1078,6 +1862,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Bann Nucha",
+    "title": "Sungkai",
+    "cost_adult": 25,
+    "cost_child": "",
+    "time_start": "",
+    "time_end": "",
+    "contact": 2456122,
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -1089,6 +1881,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Peppermint Cafe",
+    "title": "Sungkai Buffet",
+    "cost_adult": 15.9,
+    "cost_child": 9.9,
+    "time_start": 1800,
+    "time_end": 2030,
+    "contact": 2429984,
     "location": "Kiulap",
     "surau": "",
     "notes": "Child: 4-10. 3 and below eat free",
@@ -1100,6 +1900,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Tarindak D'Polo",
+    "title": "Sungkai Buffet",
+    "cost_adult": 23,
+    "cost_child": 12,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2612500,
     "location": "Jerudong",
     "surau": "",
     "notes": "Child: 4-11. Free for below 3 yeras",
@@ -1111,6 +1919,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Tarindak D'Seni",
+    "title": "Sungkai Buffet",
+    "cost_adult": 23,
+    "cost_child": 12,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2240422,
     "location": "Bandar",
     "surau": "",
     "notes": "Child: 4-11. Free for below 3 yeras",
@@ -1122,6 +1938,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Tauren Cafe",
+    "title": "Sungkai Buffet",
+    "cost_adult": 9.9,
+    "cost_child": 5.9,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2456389,
     "location": "Gadong",
     "surau": "",
     "notes": "",
@@ -1133,6 +1957,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "VPlaza Hotel",
+    "title": "Buffet Sungkai",
+    "cost_adult": 19.9,
+    "cost_child": 12,
+    "time_start": 1800,
+    "time_end": 2100,
+    "contact": 3348088,
     "location": "Kuala Belait",
     "surau": "",
     "notes": "Below 5 yeras free. Free 1 for every 10 booked",
@@ -1144,6 +1976,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "The Urban Bistro",
+    "title": "Sungkai Buffet",
+    "cost_adult": 22,
+    "cost_child": 15,
+    "time_start": "",
+    "time_end": "",
+    "contact": 7162088,
     "location": "Anggerek Desa",
     "surau": "",
     "notes": "",
@@ -1155,6 +1995,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Soto Pabo",
+    "title": "Sungkai Buffet",
+    "cost_adult": 7.5,
+    "cost_child": 6,
+    "time_start": 1700,
+    "time_end": 2030,
+    "contact": "",
     "location": "Kota Batu",
     "surau": "",
     "notes": "Child: 8 and below. 3 and below free",
@@ -1166,6 +2014,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Charcoal",
+    "title": "Skewers Sungkai Buffet",
+    "cost_adult": 33.9,
+    "cost_child": "",
+    "time_start": "",
+    "time_end": "",
+    "contact": 2221171,
     "location": "Bandar",
     "surau": "",
     "notes": "Child: 10 years and below - $1 per year old. BIBD card: 30% off on Sundays. 15% off othr days",
@@ -1177,6 +2033,14 @@
     "food_notes": ""
   },
   {
+    "date_added": "2018-05-27",
+    "place": "Badiah",
+    "title": "Ramadhan Sungkai Buffet",
+    "cost_adult": 14.8,
+    "cost_child": 8.8,
+    "time_start": "",
+    "time_end": "",
+    "contact": 2222888,
     "location": "Bandar",
     "surau": "",
     "notes": "Free for children under 6. Every 10 vouchers, 1 free extra voucher",
